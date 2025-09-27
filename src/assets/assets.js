@@ -35,39 +35,39 @@ export const assets = {
 
 export const projectsData = [
     {
-      title: "Skyline Haven",
-      price: "$2,50,000",
-      location: "California",
+      title: "Crestview Manor",
+      price: "$2,500,000",
+      location: "East Legon",
       image: project_img_1
     },
     {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      title: "Vista Grande",
+      price: "$1,500,000",
+      location: "Cantonments",
       image: project_img_2
     },
     {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      title: "Eden View Suites",
+      price: "$3,500,000",
+      location: "Airport Residential",
       image: project_img_3
     },
     {
-      title: "Central Square",
-      price: "$2,50,000",
-      location: "Los Angeles",
+      title: "Heritage House",
+      price: "$3,000,000",
+      location: "Labone",
       image: project_img_4
     },
     {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
+      title: "Colonial Court",
+      price: "$1,200,000",
+      location: "Osu",
       image: project_img_5
     },
     {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
+      title: "Sankofa Manor",
+      price: "$1,900,000",
+      location: "Trassaco Valley",
       image: project_img_6
     },
     
