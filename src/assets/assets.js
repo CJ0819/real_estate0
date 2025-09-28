@@ -75,27 +75,27 @@ export const projectsData = [
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
-        title: "Marketing Manager",
+        name: "Cyril Opeku",
+        title: "Forex Trader",
         image: profile_img_1,
-        alt: "Portrait of Donald Jackman",
+        alt: "Portrait of Cyril Opeku",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Working with Hillview Real Estate was an absolute pleasure. From the very first consultation, they understood exactly what I was looking for. I found my dream home in less than a month, and the process was smooth and stress-free. Their team is professional, knowledgeable, and truly cares about their clients. I highly recommend Hillview Real Estate to anyone in search of their perfect property."
     },
     {
-        name: "Richard Nelson",
-        title: "UI/UX Designer",
+        name: "Richardson Ayeh",
+        title: "Freelancer",
         image: profile_img_2,
-        alt: "Portrait of Richard Nelson",
+        alt: "Portrait of Richard Ayeh",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Professional, knowledgeable, and truly caring. The team went above and beyond to help me sell my property quickly and at a great price. Highly recommended!"
     },
     {
-        name: "James Washington",
-        title: "Co-Founder",
+        name: "Kelvin Manu",
+        title: "Entrepreneur",
         image: profile_img_3,
-        alt: "Portrait of James Washington",
+        alt: "Portrait of Kelvin Manu",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Great service overall. The agents were responsive and kept me updated throughout. My only suggestion would be to add more virtual tour options on the website, but otherwise everything was excellent."
     }
 ];
