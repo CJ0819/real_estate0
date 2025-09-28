@@ -1,17 +1,60 @@
-# React + Vite
+# Hillview Real Estate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Hillview Real Estate**, a modern, responsive website built with React and Vite, designed to showcase premium real estate projects and connect clients with their dream homes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Beautiful Landing Page:** Eye-catching header with background imagery and clear calls to action.
+- **Responsive Navigation:** Desktop and mobile-friendly navbar for seamless browsing.
+- **About Section:** Highlights the brand's values, achievements, and experience.
+- **Projects Showcase:** Interactive slider displaying completed and ongoing real estate projects.
+- **Testimonials:** Real client feedback to build trust and credibility.
+- **Contact Form:** Secure, easy-to-use form for inquiries, powered by [Web3Forms](https://web3forms.com/) and integrated with [React Toastify](https://fkhadra.github.io/react-toastify/) for notifications.
+- **Tailwind CSS:** Utility-first styling for rapid UI development and customization.
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Toastify](https://fkhadra.github.io/react-toastify/)
+- [Web3Forms](https://web3forms.com/) (for contact form submissions)
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Real_Estate
+### Prerequisites
+
+- Node.js (v18 or higher recommended)
+- npm
+
+### Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/Hillview-Realestate.git
+   cd Hillview-Realestate
+
+2. Install dependencies:
+npm install
+
+3. Start the development server:
+npm run dev
+
+The site will be available at http://localhost:5173.
+
+Build for Production
+npm run build
+
+Preview Production Build
+npm run preview
+
+Customization
+Contact Form: Replace <vscode_annotation details='%5B%7B%22title%22%3A%22hardcoded-credentials%22%2C%22description%22%3A%22Embedding%20credentials%20in%20source%20code%20risks%20unauthorized%20access%22%7D%5D'>_KEY</vscode_annotation>"YOUR_ACCESS_HERE" in Contact with your Web3Forms access key.
+Images & Assets: Update images in src/assets for branding and project visuals.
+Content: Edit text in src/components to reflect your business details.
+
+Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+License
+This project is licensed under the MIT License.
