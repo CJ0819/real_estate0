@@ -40,8 +40,6 @@ npm install
 3. Start the development server:
 npm run dev
 
-The site will be available at http://localhost:5173.
-
 Build for Production
 npm run build
 
@@ -49,7 +47,7 @@ Preview Production Build
 npm run preview
 
 Customization
-Contact Form: Replace <vscode_annotation details='%5B%7B%22title%22%3A%22hardcoded-credentials%22%2C%22description%22%3A%22Embedding%20credentials%20in%20source%20code%20risks%20unauthorized%20access%22%7D%5D'>_KEY</vscode_annotation>"YOUR_ACCESS_HERE" in Contact with your Web3Forms access key.
+Contact Form: Replace "YOUR_ACCESS_HERE" in Contact with your Web3Forms access key.
 Images & Assets: Update images in src/assets for branding and project visuals.
 Content: Edit text in src/components to reflect your business details.
 
