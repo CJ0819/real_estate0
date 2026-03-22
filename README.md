@@ -31,7 +31,7 @@ Welcome to **Hillview Real Estate**, a modern, responsive website built with Rea
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/Hillview-Realestate.git
+   git clone https://github.com/CJ0819/real_estate0.git
    cd Hillview-Realestate
 
 2. Install dependencies:
